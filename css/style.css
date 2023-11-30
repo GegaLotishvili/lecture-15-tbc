@@ -1,0 +1,12 @@
+.myborder {
+    border: 2px solid rgb(219, 68, 68);
+}
+.mymargin {
+    margin-bottom: 10px;
+}
+.mybg {
+    background-color: rgb(255, 170, 0);
+}
+.carouselimg {
+    height: 500px;
+}
